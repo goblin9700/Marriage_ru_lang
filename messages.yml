@@ -1,0 +1,64 @@
+player_not_found: '&cИгрок с ником %s не найден!'
+target_already_married: '&cИгрок %s уже женат\замужем!'
+already_married: '&cВы уже имеете семью!'
+married: '&a&lИгроки %s и %s создали семью!'
+marriage_requested: '&aИгрок %s предлагает вам стать партнерами. Если согластны, ответьте
+  командой &e/marry %s &ato accept .'
+request_sent: '&aВы предложили %s стать партнерами!'
+not_married: '&cПока что Вы не имеете партнёра(не женаты\не замужем)!'
+divorced: '&aИгроки %s и %s теперь в разводе!'
+home_teleport: '&aВы перемещены в точку семейного дома!'
+home_not_set: '&cТочка семейного дома пока что не установлена!'
+no_item: '&cУ Вас нет предмета для подарка!'
+item_gifted: '&aВы подарили %s %s !'
+gift_received: '&aВы получили %s от Вашего партнера %s в качестве подарка!'
+partner_not_online: '&cВаш партнер сейчас офлайн!'
+fetching_list: '&eСписок пар игроков...'
+home_set: '&aВы установили точку семейного дома!'
+invalid_format: '&cНеверный аргумент команды!'
+invalid_gender: '&cНеправильно введён пол! Пишите "male"(мужской) или "female"(женский)'
+gender_set: '&aВаш пол установлен как %s!'
+marry_self: '&cВы не можете жениться на самом себе!'
+negative_number: '&cВы должны ввести положительное число!'
+priest_added: '&aИгрок назначен священником. Теперь он сможет венчать других игроков!'
+priest_removed: '&aИгрок больше не является Священником и не сможет венчать других игроков!'
+teleported: '&aВы телепортировались к своему партнёру!'
+teleported_2: '&aВаш партнёр телепортировался к Вам!'
+online_since: '&aВаш партнёр был онлайн &2ONLINE &afor %s!'
+offline_since: '&aYour partner has been &cOFFLINE &afor %ss!'
+not_a_priest: '&cВы не можете поженить двух игроков!'
+cooldown: '&cНужно немного подождать!'
+update_available: |-
+  &f&l[Marriage] &eНайдено обновление! %s for %s
+  Наберите &6/marry update &eчтоб обновить плагин.
+paid_fee: '&a% было снято с вашего счёта.'
+insufficient_money: '&cYou have insufficient funds, costs %s'
+partner_fee: '&cYour partner couldn''t pay the marriage fee!'
+married_to: '&fженат на %s'
+chat_enabled: '&aВключен семейный чат!'
+chat_disabled: '&aСемейный чат выключен!'
+chat_spy_enabled: '&aПрослушивание приватных семейных чатов включено!'
+chat_spy_disabled: '&aПрослушивание приватных семейных чатов выключено!'
+no_health: '&cУ Вас недостаточно здоровья, чтоб полечить партнера!'
+full_health: '&cВаш партнёр полностью здоров!'
+health_given: '&aВы полечили Вашего партнёра на %s сердец!'
+health_taken: '&aВаш партнёр поделился с Вами здоровьем на %s сердец!'
+command_marry: Выслать приглашение выйти замуж\жениться
+command_marry_priest: Соединить двух игроков(поженить, сосватать). Команда для Священника
+command_chat: Включить или выключить семейный чат
+command_divorce: Развестись
+command_gender: Установить пол(male, female)
+command_gift: Подарить предмет(предметы), который держите в руке
+command_home: Телепортация в семейный дом
+command_list: Показать все пары
+command_seen: Узнать онлайн или оффлайн ваш партнер
+command_sethome: Установить точку семейного дома
+command_teleport: Телепортация к Вашему партнёру
+command_heal: Полечить Вашего партнёра
+status: '&aСтатус: %s'
+single: '&fодинок'
+pvp_enabled: '&aPVP с Вашим партнёром включён!'
+pvp_disabled: '&aPVP с Вашим партнёром выключен!'
+partner_pvp: '&aВаш партнёр изменил правило PVP.'
+command_pvp: Включение или выключение PVP между партнёрами
+on_off: on/off
